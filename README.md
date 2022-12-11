@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Guy</h1>
-<h3 align="center">India Microsoft Malware</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=centurynine&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="centurynine" /> </p>
 
