@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Guy</h1>
 
+<p align="center">
+<a href="https://fb.com/100006608053988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100006608053988" height="30" width="40" /></a>
+<a href="https://instagram.com/guy.xvii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="guy.xvii" height="30" width="40" /></a>
+</p>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=centurynine&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="centurynine" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=centurynine&theme=" alt="centurynine" /></a> </p>
