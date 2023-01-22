@@ -25,6 +25,3 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=centurynine&show_icons=true&locale=en&theme=" alt="centurynine" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=centurynine&theme=" alt="centurynine" /></p>
-<br>
-<p align="center"><img align="center" src="https://user-images.githubusercontent.com/109062980/213915932-2824e471-8dc4-4a09-81ce-6e5e8c146a62.gif" width="70%"></p>
-
