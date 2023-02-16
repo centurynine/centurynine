@@ -30,4 +30,9 @@
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=centurynine&theme=" alt="centurynine" /></p>
 <p align="center">
 <a href="https://wakatime.com/@9ded98d1-6308-4a11-a75a-63f31fdc4e7a"><img src="https://wakatime.com/badge/user/9ded98d1-6308-4a11-a75a-63f31fdc4e7a.svg" alt="Total time coded since Jan 22 2023" /></a>
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+  
 </p>
+
