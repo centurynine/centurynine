@@ -53,16 +53,18 @@ Sunday                   428 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     5 mins              ███████████████████░░░░░░   74.67 % 
+PHP                      1 min               ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+WaterLevel-Application   5 mins              ███████████████████░░░░░░   74.67 % 
+Unknown Project          1 min               ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -78,7 +80,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/05/2023 12:16:14 UTC
+ Last Updated on 22/05/2023 12:18:30 UTC
 <!--END_SECTION:waka-->
   
 </p>
