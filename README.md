@@ -53,16 +53,16 @@ Sunday                   447 commits         ████████░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     11 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  11 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+waterlevel               11 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in HTML** 
@@ -78,7 +78,7 @@ C#                       1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/07/2023 12:21:43 UTC
+ Last Updated on 11/07/2023 12:22:05 UTC
 <!--END_SECTION:waka-->
   
 </p>
