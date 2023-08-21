@@ -14,7 +14,7 @@
 
 <!-- https://skillicons.dev/ -->
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,mongodb,html,css,js,bootstrap,jquery,cloudflare,nodejs,php,java,cpp,py,dart,flutter,firebase,androidstudio,git,github,linux,mysql,postman,nginx,express" alt="centurynine" /> 
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,mongodb,html,css,js,bootstrap,jquery,cloudflare,php,java,cpp,py,dart,flutter,firebase,androidstudio,git,github,linux,mysql,postman,nginx,express" alt="centurynine" /> 
 </p>
  
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=centurynine&show_icons=true&locale=en&layout=compact&theme=" alt="centurynine" /></p>
