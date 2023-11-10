@@ -56,16 +56,18 @@ Sunday                   712 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 min               ████████████████████████░   94.81 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+go-webapp                1 min               ████████████████████████░   94.81 % 
+firebase_export          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +83,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/11/2023 12:18:38 UTC
+ Last Updated on 10/11/2023 12:18:24 UTC
 <!--END_SECTION:waka-->
   
 </p>
