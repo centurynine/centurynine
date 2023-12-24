@@ -56,16 +56,16 @@ Sunday                   712 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+flutter_learn            0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +81,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/12/2023 12:16:55 UTC
+ Last Updated on 24/12/2023 12:16:56 UTC
 <!--END_SECTION:waka-->
   
 </p>
