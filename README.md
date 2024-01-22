@@ -56,16 +56,16 @@ Sunday                   712 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ProjectOpenCV            7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +81,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/01/2024 12:17:50 UTC
+ Last Updated on 22/01/2024 12:20:25 UTC
 <!--END_SECTION:waka-->
   
 </p>
