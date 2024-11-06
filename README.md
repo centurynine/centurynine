@@ -56,16 +56,18 @@ Sunday                   722 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     22 mins             █████████████████████████   99.56 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  22 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+RohmOcr                  20 mins             ███████████████████████░░   90.83 % 
+RohmPackage              2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  22 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -81,7 +83,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/11/2024 12:06:10 UTC
+ Last Updated on 06/11/2024 12:06:21 UTC
 <!--END_SECTION:waka-->
   
 </p>
