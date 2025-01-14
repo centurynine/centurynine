@@ -56,17 +56,16 @@ Sunday                   722 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Image (svg)              1 min               ██████████████░░░░░░░░░░░   57.03 % 
-JavaScript               1 min               ███████████░░░░░░░░░░░░░░   42.97 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-fukurou                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +81,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/01/2025 12:05:13 UTC
+ Last Updated on 14/01/2025 12:05:59 UTC
 <!--END_SECTION:waka-->
   
 </p>
