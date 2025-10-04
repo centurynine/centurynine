@@ -29,6 +29,45 @@
 <a href="https://wakatime.com/@9ded98d1-6308-4a11-a75a-63f31fdc4e7a"><img src="https://wakatime.com/badge/user/9ded98d1-6308-4a11-a75a-63f31fdc4e7a.svg" alt="Total time coded since Jan 22 2023" /></a>
   
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                134 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+🌆 Daytime                882 commits         ████████░░░░░░░░░░░░░░░░░   30.55 % 
+🌃 Evening                1275 commits        ███████████░░░░░░░░░░░░░░   44.16 % 
+🌙 Night                  596 commits         █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   357 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Tuesday                  278 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+Wednesday                216 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+Thursday                 262 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Friday                   300 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Saturday                 718 commits         ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+Sunday                   756 commits         ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -42,7 +81,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2025 12:07:05 UTC
+ Last Updated on 04/10/2025 12:05:52 UTC
 <!--END_SECTION:waka-->
   
 </p>
