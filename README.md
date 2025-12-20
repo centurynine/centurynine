@@ -1,8 +1,8 @@
 
-<p align="center"><a href="https://portfolio-nextjs-puce-omega.vercel.app/" traget="_blank"> <img src="https://user-images.githubusercontent.com/109062980/213915698-3e79c409-24f8-4471-a5f8-e7a842ad3a0a.gif" width="100" /> </a></p>
+<p align="center"><a href="https://www.centurynine.dev/" traget="_blank"> <img src="https://user-images.githubusercontent.com/109062980/213915698-3e79c409-24f8-4471-a5f8-e7a842ad3a0a.gif" width="100" /> </a></p>
  
 <h1 align="center">Hi 👋, I'm Guy</h1>
-<p align="center"><a href="https://portfolio-nextjs-puce-omega.vercel.app/" traget="_blank"> My Portfolio </a></p>
+<p align="center"><a href="https://www.centurynine.dev/" traget="_blank"> My Portfolio </a></p>
 
 <p align="center">
 <a href="https://fb.com/100006608053988" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100006608053988" height="30" width="40" /></a>
