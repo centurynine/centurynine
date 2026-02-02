@@ -57,18 +57,16 @@ Sunday                   761 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     4 mins              ██████████████████░░░░░░░   70.44 % 
-YAML                     1 min               ███████░░░░░░░░░░░░░░░░░░   28.10 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-simple-product-lister    6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -84,7 +82,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/02/2026 12:07:06 UTC
+ Last Updated on 02/02/2026 12:10:48 UTC
 <!--END_SECTION:waka-->
   
 </p>
