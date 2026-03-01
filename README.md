@@ -57,16 +57,16 @@ Sunday                   761 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-simple-product-lister    0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -82,7 +82,7 @@ Go                       2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/02/2026 12:06:55 UTC
+ Last Updated on 01/03/2026 12:07:13 UTC
 <!--END_SECTION:waka-->
   
 </p>
