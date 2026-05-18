@@ -30,67 +30,20 @@
 <a href="https://wakatime.com/@9ded98d1-6308-4a11-a75a-63f31fdc4e7a"><img src="https://wakatime.com/badge/user/9ded98d1-6308-4a11-a75a-63f31fdc4e7a.svg" alt="Total time coded since Jan 22 2023" /></a>
   
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                170 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-🌆 Daytime                925 commits         ███████░░░░░░░░░░░░░░░░░░   29.81 % 
-🌃 Evening                1380 commits        ███████████░░░░░░░░░░░░░░   44.47 % 
-🌙 Night                  628 commits         █████░░░░░░░░░░░░░░░░░░░░   20.24 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   362 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
-Tuesday                  296 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
-Wednesday                228 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
-Thursday                 322 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Friday                   333 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Saturday                 775 commits         ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
-Sunday                   787 commits         ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Dart                     5 hrs 30 mins       ███████████░░░░░░░░░░░░░░   44.70 % 
-TypeScript               2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.31 % 
-Other                    2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
-Markdown                 39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
-Kotlin                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 20 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-subro                    10 hrs 21 mins      █████████████████████░░░░   83.93 % 
-dramawallet              1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-norz                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-flutter                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-web                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-
-💻 Operating System: 
-Mac                      12 hrs 20 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     19 repos            ████████░░░░░░░░░░░░░░░░░   32.76 % 
-JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-C++                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+Dart                     20 repos            ████████░░░░░░░░░░░░░░░░░   33.90 % 
+JavaScript               12 repos            █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+C++                      6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 
 
 
 
- Last Updated on 17/05/2026 12:20:30 UTC
+ Last Updated on 18/05/2026 13:13:32 UTC
 <!--END_SECTION:waka-->
   
 </p>
