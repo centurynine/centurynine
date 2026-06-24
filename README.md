@@ -57,16 +57,16 @@ Sunday                   829 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Dart                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Wizard-RestClient        0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -82,7 +82,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2026 12:57:42 UTC
+ Last Updated on 24/06/2026 12:44:59 UTC
 <!--END_SECTION:waka-->
   
 </p>
