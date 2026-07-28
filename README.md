@@ -30,6 +30,8 @@
 <a href="https://wakatime.com/@9ded98d1-6308-4a11-a75a-63f31fdc4e7a"><img src="https://wakatime.com/badge/user/9ded98d1-6308-4a11-a75a-63f31fdc4e7a.svg" alt="Total time coded since Jan 22 2023" /></a>
   
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2013%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -69,6 +71,12 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -82,7 +90,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 14:19:13 UTC
+ Last Updated on 28/07/2026 13:51:21 UTC
 <!--END_SECTION:waka-->
   
 </p>
