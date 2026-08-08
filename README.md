@@ -32,6 +32,51 @@
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2013%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+🌆 Daytime                939 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
+🌃 Evening                1492 commits        ███████████░░░░░░░░░░░░░░   45.70 % 
+🌙 Night                  661 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Tuesday                  316 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Wednesday                236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Thursday                 346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Friday                   368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Saturday                 788 commits         ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+Sunday                   829 commits         ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Dart** 
 
 ```text
@@ -45,7 +90,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 12:49:44 UTC
+ Last Updated on 08/08/2026 12:35:41 UTC
 <!--END_SECTION:waka-->
   
 </p>
