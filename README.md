@@ -30,26 +30,26 @@
 <a href="https://wakatime.com/@9ded98d1-6308-4a11-a75a-63f31fdc4e7a"><img src="https://wakatime.com/badge/user/9ded98d1-6308-4a11-a75a-63f31fdc4e7a.svg" alt="Total time coded since Jan 22 2023" /></a>
   
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2013%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2033%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-🌆 Daytime                939 commits         ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-🌃 Evening                1492 commits        ███████████░░░░░░░░░░░░░░   45.70 % 
-🌙 Night                  661 commits         █████░░░░░░░░░░░░░░░░░░░░   20.25 % 
+🌞 Morning                173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+🌆 Daytime                942 commits         ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+🌃 Evening                1493 commits        ███████████░░░░░░░░░░░░░░   45.63 % 
+🌙 Night                  664 commits         █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-Tuesday                  316 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Wednesday                236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
-Thursday                 346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-Friday                   368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Saturday                 788 commits         ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
-Sunday                   829 commits         ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+Monday                   382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Tuesday                  316 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+Wednesday                236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Thursday                 346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Friday                   368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Saturday                 789 commits         ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+Sunday                   835 commits         ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
 ```
 
 
@@ -59,38 +59,59 @@ Sunday                   829 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     8 mins              ██████████░░░░░░░░░░░░░░░   40.74 % 
+JavaScript               5 mins              ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+CSS                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Git Config               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             14 mins             ██████████████████░░░░░░░   72.46 % 
+VS Code                  5 mins              ███████░░░░░░░░░░░░░░░░░░   27.54 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+love                     20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      20 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 20 mins (100.0%)
+
+✍️ 820 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 133,886 Input Tokens, 16,049 Output Tokens
+
+💵 $1.66 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 5 AI Prompts
+
+GPT                      830 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 5,093 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
 
 ```text
-Dart                     21 repos            ████████░░░░░░░░░░░░░░░░░   32.81 % 
-TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-C++                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
-Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+Dart                     21 repos            ████████░░░░░░░░░░░░░░░░░   32.31 % 
+JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+Python                   4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Lua                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 ```
 
 
 
 
- Last Updated on 19/09/2026 15:12:39 UTC
+ Last Updated on 20/09/2026 15:17:15 UTC
 <!--END_SECTION:waka-->
   
 </p>
