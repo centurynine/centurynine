@@ -30,7 +30,7 @@
 <a href="https://wakatime.com/@9ded98d1-6308-4a11-a75a-63f31fdc4e7a"><img src="https://wakatime.com/badge/user/9ded98d1-6308-4a11-a75a-63f31fdc4e7a.svg" alt="Total time coded since Jan 22 2023" /></a>
   
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-57%20hrs%2033%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2036%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -59,43 +59,44 @@ Sunday                   835 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-HTML                     8 mins              ██████████░░░░░░░░░░░░░░░   40.74 % 
-JavaScript               5 mins              ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-JSON                     2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-CSS                      1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Git Config               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
+JavaScript               46 mins             ███████████░░░░░░░░░░░░░░   44.10 % 
+JSON                     35 mins             █████████░░░░░░░░░░░░░░░░   34.07 % 
+HTML                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.30 % 
+Markdown                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
+CSS                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
 
 🔥 Editors: 
-Codex Vscode             14 mins             ██████████████████░░░░░░░   72.46 % 
-VS Code                  5 mins              ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+VS Code                  58 mins             ██████████████░░░░░░░░░░░   55.48 % 
+Codex Vscode             46 mins             ███████████░░░░░░░░░░░░░░   44.52 % 
 
 🐱‍💻 Projects: 
-love                     20 mins             █████████████████████████   100.00 % 
+love                     1 hr 44 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 20 mins (100.0%)
+⏱ AI Coding Time: 1 hr 23 mins (79.35%)
 
-✍️ 820 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,671 lines written by AI, 6 lines written by hand (99.64% AI-written)
 
-🔤 133,886 Input Tokens, 16,049 Output Tokens
+🔤 291,128 Input Tokens, 42,940 Output Tokens
 
-💵 $1.66 Estimated AI Cost This Week
+💵 $4.92 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 5 AI Prompts
+🧠 4 AI Sessions, 16 AI Prompts
 
-GPT                      830 lines           █████████████████████████   100.00 % 
+GPT                      1,681 lines         █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 5,093 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.64% of written lines came from AI
+📚 Verbose Prompter — average 1,695 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.59% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -111,7 +112,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 15:17:15 UTC
+ Last Updated on 21/09/2026 17:41:12 UTC
 <!--END_SECTION:waka-->
   
 </p>
