@@ -36,19 +36,19 @@
 
 ```text
 🌞 Morning                173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
-🌆 Daytime                944 commits         ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-🌃 Evening                1493 commits        ███████████░░░░░░░░░░░░░░   45.60 % 
-🌙 Night                  664 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+🌆 Daytime                944 commits         ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+🌃 Evening                1494 commits        ███████████░░░░░░░░░░░░░░   45.62 % 
+🌙 Night                  664 commits         █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   382 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+Monday                   383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
 Tuesday                  316 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
 Wednesday                236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Thursday                 346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+Thursday                 346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
 Friday                   368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Saturday                 791 commits         ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
+Saturday                 791 commits         ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
 Sunday                   835 commits         ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
 ```
 
@@ -59,44 +59,23 @@ Sunday                   835 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               48 mins             ████████████░░░░░░░░░░░░░   47.82 % 
-JSON                     42 mins             ██████████░░░░░░░░░░░░░░░   41.75 % 
-Markdown                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
-CSS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+JSON                     8 mins              █████████████░░░░░░░░░░░░   52.19 % 
+JavaScript               8 mins              ████████████░░░░░░░░░░░░░   47.81 % 
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████░░░░░░░░   68.50 % 
-Codex Vscode             32 mins             ████████░░░░░░░░░░░░░░░░░   31.50 % 
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-love                     1 hr 41 mins        █████████████████████████   100.00 % 
+love                     17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 41 mins        █████████████████████████   100.00 % 
+Mac                      17 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 3 mins (61.86%)
-
-✍️ 851 lines written by AI, 10 lines written by hand (98.84% AI-written)
-
-🔤 157,242 Input Tokens, 26,891 Output Tokens
-
-💵 $3.26 Estimated AI Cost This Week
-
-🧠 2 AI Sessions, 11 AI Prompts
-
-GPT                      851 lines           █████████████████████████   100.00 % 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.84% of written lines came from AI
-📝 Concise Prompter — average 151 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 2.07% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -112,7 +91,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 27/09/2026 16:13:57 UTC
+ Last Updated on 28/09/2026 19:08:11 UTC
 <!--END_SECTION:waka-->
   
 </p>
