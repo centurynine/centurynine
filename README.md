@@ -30,7 +30,7 @@
 <a href="https://wakatime.com/@9ded98d1-6308-4a11-a75a-63f31fdc4e7a"><img src="https://wakatime.com/badge/user/9ded98d1-6308-4a11-a75a-63f31fdc4e7a.svg" alt="Total time coded since Jan 22 2023" /></a>
   
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-58%20hrs%2039%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -59,23 +59,38 @@ Sunday                   835 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JSON                     8 mins              █████████████░░░░░░░░░░░░   52.19 % 
-JavaScript               8 mins              ████████████░░░░░░░░░░░░░   47.81 % 
+JavaScript               10 mins             █████████████░░░░░░░░░░░░   50.43 % 
+JSON                     9 mins              ███████████░░░░░░░░░░░░░░   44.44 % 
+TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🔥 Editors: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+VS Code                  21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-love                     17 mins             █████████████████████████   100.00 % 
+love                     21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+Mac                      21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 mins (13.28%)
+
+✍️ 0 lines written by AI, 33 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 140 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -91,7 +106,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2026 19:08:11 UTC
+ Last Updated on 29/09/2026 17:30:05 UTC
 <!--END_SECTION:waka-->
   
 </p>
