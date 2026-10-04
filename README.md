@@ -59,26 +59,26 @@ Sunday                   835 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               10 mins             █████████████░░░░░░░░░░░░   50.43 % 
-JSON                     9 mins              ███████████░░░░░░░░░░░░░░   44.44 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+JavaScript               2 mins              ███████████████░░░░░░░░░░   61.62 % 
+TypeScript               1 min               ███████░░░░░░░░░░░░░░░░░░   26.95 % 
+JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
 
 🔥 Editors: 
-VS Code                  21 mins             █████████████████████████   100.00 % 
+VS Code                  4 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-love                     21 mins             █████████████████████████   100.00 % 
+love                     4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      21 mins             █████████████████████████   100.00 % 
+Mac                      4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (13.28%)
+⏱ AI Coding Time: 2 mins (69.82%)
 
-✍️ 0 lines written by AI, 33 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 29 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -106,7 +106,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/10/2026 15:35:37 UTC
+ Last Updated on 04/10/2026 16:19:21 UTC
 <!--END_SECTION:waka-->
   
 </p>
