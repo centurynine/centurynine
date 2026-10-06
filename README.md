@@ -59,38 +59,22 @@ Sunday                   835 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               2 mins              ███████████████░░░░░░░░░░   61.62 % 
-TypeScript               1 min               ███████░░░░░░░░░░░░░░░░░░   26.95 % 
-JSON                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-love                     4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (69.82%)
-
-✍️ 0 lines written by AI, 29 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 2 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 140 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -106,7 +90,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/10/2026 16:19:21 UTC
+ Last Updated on 06/10/2026 17:47:13 UTC
 <!--END_SECTION:waka-->
   
 </p>
