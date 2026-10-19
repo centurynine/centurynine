@@ -36,20 +36,20 @@
 
 ```text
 🌞 Morning                173 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
-🌆 Daytime                959 commits         ███████░░░░░░░░░░░░░░░░░░   28.83 % 
-🌃 Evening                1530 commits        ████████████░░░░░░░░░░░░░   46.00 % 
-🌙 Night                  664 commits         █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+🌆 Daytime                959 commits         ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+🌃 Evening                1533 commits        ████████████░░░░░░░░░░░░░   46.05 % 
+🌙 Night                  664 commits         █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Tuesday                  319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
-Wednesday                236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Thursday                 346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-Friday                   368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Saturday                 827 commits         ██████░░░░░░░░░░░░░░░░░░░   24.86 % 
-Sunday                   847 commits         ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+Monday                   386 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Tuesday                  319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
+Wednesday                236 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+Thursday                 346 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Friday                   368 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Saturday                 827 commits         ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+Sunday                   847 commits         ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
 ```
 
 
@@ -59,43 +59,43 @@ Sunday                   847 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     44 mins             ████████████████░░░░░░░░░   64.65 % 
-CocoaPods                16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-Image (png)              1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Dart                     15 mins             ██████████████░░░░░░░░░░░   57.56 % 
+CocoaPods                6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Image (png)              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 9 mins         █████████████████████████   100.00 % 
+VS Code                  26 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fretune                  1 hr 8 mins         █████████████████████████   98.41 % 
-tmp                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+fretune                  25 mins             ████████████████████████░   95.90 % 
+tmp                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
 
 💻 Operating System: 
-Mac                      1 hr 9 mins         █████████████████████████   100.00 % 
+Mac                      26 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 41 mins (59.1%)
+⏱ AI Coding Time: 19 mins (73.87%)
 
-✍️ 26 lines written by AI, 8 lines written by hand (76.47% AI-written)
+✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
 
 🔤 289,093 Input Tokens, 445 Output Tokens
 
 💵 $0.87 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 6 AI Prompts
+🧠 1 AI Sessions, 5 AI Prompts
 
-Github-Copilot           34 lines            █████████████████████████   100.00 % 
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 76.47% of written lines came from AI
-📄 Detailed Prompter — average 1,099 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 32.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📄 Detailed Prompter — average 1,296 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -111,7 +111,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 15:15:05 UTC
+ Last Updated on 19/10/2026 18:10:55 UTC
 <!--END_SECTION:waka-->
   
 </p>
