@@ -30,7 +30,7 @@
 <a href="https://wakatime.com/@9ded98d1-6308-4a11-a75a-63f31fdc4e7a"><img src="https://wakatime.com/badge/user/9ded98d1-6308-4a11-a75a-63f31fdc4e7a.svg" alt="Total time coded since Jan 22 2023" /></a>
   
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-59%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-60%20hrs%2010%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -59,43 +59,47 @@ Sunday                   847 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     15 mins             ██████████████░░░░░░░░░░░   57.56 % 
-CocoaPods                6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Image (png)              1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.11 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+JavaScript               1 hr 17 mins        ████████████████░░░░░░░░░   63.30 % 
+Dart                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+Other                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+CocoaPods                6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 
 🔥 Editors: 
-VS Code                  26 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-fretune                  25 mins             ████████████████████████░   95.90 % 
-tmp                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+love                     1 hr 27 mins        ██████████████████░░░░░░░   71.49 % 
+fretune                  25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.19 % 
+repo                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+tmp                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+flutter_application_1    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
 
 💻 Operating System: 
-Mac                      26 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 19 mins (73.87%)
+⏱ AI Coding Time: 1 hr 10 mins (57.45%)
 
-✍️ 0 lines written by AI, 8 lines written by hand (0.0% AI-written)
+✍️ 180 lines written by AI, 73 lines written by hand (71.15% AI-written)
 
-🔤 289,093 Input Tokens, 445 Output Tokens
+🔤 508,233 Input Tokens, 486 Output Tokens
 
-💵 $0.87 Estimated AI Cost This Week
+💵 $1.53 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 5 AI Prompts
+🧠 2 AI Sessions, 23 AI Prompts
 
-Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Vscode                   189 lines           ████████████████░░░░░░░░░   63.21 % 
+Github-Copilot           110 lines           █████████░░░░░░░░░░░░░░░░   36.79 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 1,296 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 71.15% of written lines came from AI
+📝 Concise Prompter — average 335 characters per prompt
+🔁 Iterative Prompter — average 12 prompts per session
+🚀 High AI Trust — 27.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Dart** 
@@ -111,7 +115,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/10/2026 18:10:55 UTC
+ Last Updated on 20/10/2026 16:12:38 UTC
 <!--END_SECTION:waka-->
   
 </p>
