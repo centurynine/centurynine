@@ -59,19 +59,20 @@ Sunday                   847 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               1 hr 17 mins        ████████████████████░░░░░   81.26 % 
+JavaScript               1 hr 17 mins        ████████████████████░░░░░   81.25 % 
 Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
 VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-love                     1 hr 27 mins        ███████████████████████░░   91.77 % 
+love                     1 hr 27 mins        ███████████████████████░░   91.76 % 
 repo                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 flutter_application_1    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+fretune                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
 Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
@@ -80,7 +81,7 @@ Mac                      1 hr 34 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (52.79%)
+⏱ AI Coding Time: 50 mins (52.78%)
 
 ✍️ 180 lines written by AI, 65 lines written by hand (73.47% AI-written)
 
@@ -113,7 +114,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2026 16:28:39 UTC
+ Last Updated on 22/10/2026 16:28:56 UTC
 <!--END_SECTION:waka-->
   
 </p>
