@@ -59,29 +59,30 @@ Sunday                   847 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               1 hr 17 mins        ████████████████████░░░░░   81.25 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Dart                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+JavaScript               1 hr 17 mins        ████████████████████░░░░░   80.87 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+Dart                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
-VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-love                     1 hr 27 mins        ███████████████████████░░   91.76 % 
-repo                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+love                     1 hr 27 mins        ███████████████████████░░   91.32 % 
+repo                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
 flutter_application_1    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+wizard_pdf               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 fretune                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (52.78%)
+⏱ AI Coding Time: 50 mins (52.53%)
 
 ✍️ 180 lines written by AI, 65 lines written by hand (73.47% AI-written)
 
@@ -114,7 +115,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 16:17:59 UTC
+ Last Updated on 24/10/2026 15:15:06 UTC
 <!--END_SECTION:waka-->
   
 </p>
