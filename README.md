@@ -59,21 +59,21 @@ Sunday                   847 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               1 hr 17 mins        ████████████████████░░░░░   80.87 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+JavaScript               1 hr 17 mins        ████████████████████░░░░░   80.76 % 
+Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
 CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Dart                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Dart                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
 VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-love                     1 hr 27 mins        ███████████████████████░░   91.32 % 
-repo                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+love                     1 hr 27 mins        ███████████████████████░░   91.20 % 
+repo                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
 flutter_application_1    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 wizard_pdf               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-fretune                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+cozy_night_cafe          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
 Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
@@ -82,7 +82,7 @@ Mac                      1 hr 35 mins        ███████████�
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (52.53%)
+⏱ AI Coding Time: 50 mins (52.46%)
 
 ✍️ 180 lines written by AI, 65 lines written by hand (73.47% AI-written)
 
@@ -115,7 +115,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 15:15:06 UTC
+ Last Updated on 25/10/2026 15:25:24 UTC
 <!--END_SECTION:waka-->
   
 </p>
