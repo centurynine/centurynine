@@ -59,47 +59,27 @@ Sunday                   847 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               1 hr 17 mins        ████████████████████░░░░░   80.76 % 
-Markdown                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Other                    6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-Dart                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+Dart                     0 secs              ██████████████░░░░░░░░░░░   56.38 % 
+Lua                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+Markdown                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-VS Code                  1 hr 35 mins        █████████████████████████   100.00 % 
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-love                     1 hr 27 mins        ███████████████████████░░   91.20 % 
-repo                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-flutter_application_1    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
-wizard_pdf               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
-cozy_night_cafe          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+wizard_pdf               0 secs              ███████████████████░░░░░░   76.04 % 
+cozy_night_cafe          0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
+fretune                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 💻 Operating System: 
-Mac                      1 hr 35 mins        █████████████████████████   100.00 % 
+Mac                      0 secs              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 50 mins (52.46%)
-
-✍️ 180 lines written by AI, 65 lines written by hand (73.47% AI-written)
-
-🔤 219,140 Input Tokens, 41 Output Tokens
-
-💵 $0.66 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 18 AI Prompts
-
-Vscode                   189 lines           ████████████████░░░░░░░░░   63.21 % 
-Github-Copilot           110 lines           █████████░░░░░░░░░░░░░░░░   36.79 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 73.47% of written lines came from AI
-📝 Concise Prompter — average 68 characters per prompt
-🔁 Iterative Prompter — average 18 prompts per session
-🚀 High AI Trust — 24.49% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Dart** 
@@ -115,7 +95,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/10/2026 18:11:35 UTC
+ Last Updated on 27/10/2026 17:15:21 UTC
 <!--END_SECTION:waka-->
   
 </p>
