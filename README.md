@@ -59,18 +59,17 @@ Sunday                   847 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     0 secs              ██████████████░░░░░░░░░░░   56.38 % 
-Lua                      0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-Markdown                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+Dart                     0 secs              ██████████████░░░░░░░░░░░   55.29 % 
+Lua                      0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+Markdown                 0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
 VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wizard_pdf               0 secs              ███████████████████░░░░░░   76.04 % 
-cozy_night_cafe          0 secs              █████░░░░░░░░░░░░░░░░░░░░   21.51 % 
-fretune                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+wizard_pdf               0 secs              ███████████████████░░░░░░   77.95 % 
+cozy_night_cafe          0 secs              ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
 
 💻 Operating System: 
 Mac                      0 secs              █████████████████████████   100.00 % 
@@ -95,7 +94,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 17:49:08 UTC
+ Last Updated on 29/10/2026 17:56:02 UTC
 <!--END_SECTION:waka-->
   
 </p>
